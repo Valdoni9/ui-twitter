@@ -14,7 +14,7 @@ export function Timeline(){
   const [tweets, setTweets] = useState([
     'Meu primeiro tweet',
     'Primeiro Projeto React com TypeScript!!!!!',
-    'Deu certo tweetar!',
+    'Deu certo tweetar!!',
     'RockSeat é top!!!'
   ])
 

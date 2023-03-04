@@ -28,7 +28,7 @@ import './Status.css'
 export function Status(){
   const [newAnswer, setNewAnswer] = useState('')
   const [answers, setAnswers] = useState([
-    'Grande Homem!!',
+    'Grande Homem!!!',
     'Olha, faz sentido',
     'Parabëns pelo progresso.'
   ])
