@@ -12,9 +12,10 @@ let newTweet = ''
 export function Timeline(){
   const [newTweet, setNewTweet] = useState('')
   const [tweets, setTweets] = useState([
-    'Meu primo tweet',
-    'Teste',
-    'Deu certo tweetar!'
+    'Meu primeiro tweet',
+    'Primeiro Projeto React com TypeScript!!!!!',
+    'Deu certo tweetar!',
+    'RockSeat é top!!!'
   ])
 
 function createNewTweet(event: FormEvent){
