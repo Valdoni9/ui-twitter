@@ -7,5 +7,5 @@
 Replica do Twitter treinando TypeScript
 
 <p align="center">
-  <img width="460" height="300" src=""
+  <img width="460" height="300" src="src/assets/Demonstração.gif"
 </p>
